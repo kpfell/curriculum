@@ -97,7 +97,7 @@ Your terminal should look similar to this picture:
 
 Then run the command:
 
-`cd clojure-sample`
+`cd welcometoclojurebridge`
 
 This will put you in the directory with the source code for this sample bit of Clojure code. After that completes, run:
 
